@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://agentgrowio.github.io/</loc>
-    <lastmod>2026-01-01</lastmod>
+    <loc>https://agentgrowio.github.io/9bhk/</loc>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://agentgrowio.github.io/9bhk/posts/hosting-secluded-corporate-offsites-in-tamil-nadu.html</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>
