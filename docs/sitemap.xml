@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://agentgrowio.github.io/9bhk/</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://agentgrowio.github.io/9bhk/posts/why-a-private-villa-beats-a-hotel-room-for-your-next-weekend.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://agentgrowio.github.io/9bhk/posts/whole-home-rentals-for-corporate-offsites-in-ecr.html</loc>
